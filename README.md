@@ -31,3 +31,5 @@ Muitos revendedores autônomos gerenciam suas vendas e clientes em cadernos, o q
 * João Marcelo Felix Correia Filho 
 * Kauã Di Franco de Andrade Monteiro 
 * Lucas José de Souza Fernandes 
+
+📄 **[Clique aqui para ler o TCC completo (PDF)](./TCC_SARVA.pdf)**
